@@ -1,0 +1,19 @@
+{
+    "name": "shopee",
+    "version": "1.0.0",
+    "description": "This is a prcject which i pratice knowledge nodejs that learned",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon --inspect src/app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ducduy0209/Shopee-Node.git"
+    },
+    "author": "DuyPro",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ducduy0209/Shopee-Node/issues"
+    },
+    "homepage": "https://github.com/ducduy0209/Shopee-Node#readme"
+}
