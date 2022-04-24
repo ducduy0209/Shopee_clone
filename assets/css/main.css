@@ -94,7 +94,10 @@
   width: 70%;
   height: 20px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3db7610 (Upload code)
 .header__navbar-user-item a:first-child {
   border-top-left-radius: 2px;
   border-top-right-radius: 2px;
@@ -174,7 +177,10 @@
 }
 
 /* Header QR */
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3db7610 (Upload code)
 .header__qr {
   width: 186px;
   background-color: var(--white-color);
@@ -213,7 +219,10 @@
 }
 
 /* Header notification */
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3db7610 (Upload code)
 .header__notify {
   position: absolute;
   top: 135%;
@@ -447,7 +456,10 @@
   background-color: var(--white-color);
   color: #666;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3db7610 (Upload code)
 .auth-form__socials--fb .auth-form__socials-icon {
   color: var(--white-color);
 }
@@ -470,7 +482,10 @@
   font-size: 1.3rem;
   color: #939393;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3db7610 (Upload code)
 .auth-form__help-forgot {
   font-weight: 450;
   color: var(--primary-color);
@@ -483,7 +498,10 @@
 }
 
 /* header with search */
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3db7610 (Upload code)
 .header-with-search {
   height: calc(var(--header-height) - var(--navbar-height));
   display: flex;
@@ -779,7 +797,10 @@
 }
 
 /* Ẩn */
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3db7610 (Upload code)
 .Remove {
   display: none;
 }
@@ -860,7 +881,10 @@
 }
 
 /* Search history */
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3db7610 (Upload code)
 .header__search-history {
   position: absolute;
   z-index: 1;
@@ -907,7 +931,10 @@
 }
 
 /* Header sort bar */
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3db7610 (Upload code)
 .header__sort-bar {
   position: fixed;
   top: var(--header-height);
@@ -1054,7 +1081,10 @@
 }
 
 /* MObile category */
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3db7610 (Upload code)
 .mobile-category {
   display: none;
 }
@@ -1079,11 +1109,17 @@
 .mobile-category__item:nth-of-type(3n + 1) .mobile-category__link {
   background-color: #87afd8;
 }
+<<<<<<< HEAD
 
 .mobile-category__item:nth-of-type(3n + 2) .mobile-category__link {
   background-color: #76c9bd;
 }
 
+=======
+.mobile-category__item:nth-of-type(3n + 2) .mobile-category__link {
+  background-color: #76c9bd;
+}
+>>>>>>> 3db7610 (Upload code)
 .mobile-category__item:nth-of-type(3n + 3) .mobile-category__link {
   background-color: #88cf81;
 }
@@ -1110,7 +1146,10 @@
 }
 
 /* Home sort + filter */
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3db7610 (Upload code)
 .home__filter {
   background-color: rgba(0, 0, 0, 0.04);
   display: flex;
@@ -1301,7 +1340,10 @@ i.home-product-item__like-icon-fill {
   color: #595959;
   padding-bottom: 10px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3db7610 (Upload code)
 /* 
 .home-product-item__brand {
 
@@ -1386,7 +1428,10 @@ i.home-product-item__like-icon-fill {
 }
 
 /* Footer */
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3db7610 (Upload code)
 .footer {
   border-top: 3px solid var(--primary-color);
   padding-top: 32px;
@@ -1527,10 +1572,15 @@ i.home-product-item__like-icon-fill {
 }
 
 /* Detail Product */
+<<<<<<< HEAD
 
 .product-detail__container {
 }
 
+=======
+.product-detail__container {
+}
+>>>>>>> 3db7610 (Upload code)
 .portfolio-list {
   margin-top: 20px;
 }
@@ -1560,4 +1610,8 @@ i.home-product-item__like-icon-fill {
   background-position: center;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
+<<<<<<< HEAD
    */
+=======
+   */
+>>>>>>> 3db7610 (Upload code)
